@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+# Packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Local environment files
+.env
+.venv/
+venv/
